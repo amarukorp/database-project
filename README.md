@@ -49,7 +49,7 @@ The new database application should help to complete the tasks (user transaction
 ## **ER Diagram**
 This Diagram explains the basic schema of the database more details on the file [DM_Case_DB_Design](https://github.com/amarukorp/database-project/blob/main/DM_Case_DB_Design.pdf)
 
-![Er Diagram](DB_Diagrams\ER_diagram.jpg)
+![Er Diagram](https://github.com/amarukorp/database-project/blob/main/DB_Diagrams/ER_diagram.jpg)
 
 ## **How to make use of the database**
 
@@ -62,7 +62,7 @@ In order to use the database, download MS SQL Server (or similar but check the c
 
 The result of run these queries on the database management system will provide you the following database with a basic set of data.
 
-![DataBase Model](DB_Diagrams\Database_model.jpg)
+![DataBase Model](https://github.com/amarukorp/database-project/blob/main/DB_Diagrams/Database_model.jpg)
 ---
 
 For more information about the database please review the file [DM_Case_DB_Design](https://github.com/amarukorp/database-project/blob/main/DM_Case_DB_Design.pdf)
