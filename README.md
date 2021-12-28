@@ -3,7 +3,7 @@ Project created during the **Data management and databases** course at **Haaga-H
 
 
 
-This project shows the result of creating a relational database from scratch. This repository holds the results of the holds process of database design and implementation.
+This project shows the result of creating a relational database from scratch. This repository holds the results of the process of database design and implementation.
 
 ---
 
